@@ -1,0 +1,5 @@
+Design current system such that in the future another display board in close proximity can be installed using existing processing unit at site. 
+Allow for expansion of solar power and battery backup systems to support additional modules on the secondary display board. 
+Data communication between boards may be wired or wireless within a distance of up to 200m maximum.  
+An underground-wired system is preferred to enable shared power supply and data communication to avoid additional wireless systems and 
+prevent interference with high gain satellite antenna.
